@@ -18,4 +18,4 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 
 ## Apps
 
-- [Hand Mirror](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12) Super simple app for previewing FaceTime camera.
+- [Hand Mirror](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12) — Super simple app for previewing FaceTime camera.
